@@ -8,9 +8,9 @@
 
 ## Part 1 : Fundamentals
 
-* [DL Ex1_Clusterization_linearly_separated](https://colab.research.google.com/github/jbfiche/Deep-Learning-formation/2022/Deep_learning_part_1/Ex1_Clusterization_linearly_separated.ipynb)
-* [DL Ex2_Clusterization_not_linearly_separated_parabola](https://colab.research.google.com/github/MontpellierRessourcesImagerie/mri-workshop-machine-learning/blob/master/day02/Deep_learning_part_1/Ex2_Clusterization_not_linearly_separated_parabola.ipynb)
-* [DL Ex3_Clusterization_not_linearly_separated_spiral](https://colab.research.google.com/github/MontpellierRessourcesImagerie/mri-workshop-machine-learning/blob/master/day02/Deep_learning_part_1/Ex3_Clusterization_not_linearly_separated_spiral.ipynb)
+* [DL Ex1_Clusterization_linearly_separated](https://colab.research.google.com/github/jbfiche/Deep-Learning-formation/blob/master/2022/Deep_learning_part_1/Ex1_Clusterization_linearly_separated.ipynb)
+* [DL Ex2_Clusterization_not_linearly_separated_parabola](https://colab.research.google.com/github/jbfiche/Deep-Learning-formation/blob/master/2022/Deep_learning_part_1/Ex2_Clusterization_not_linearly_separated_parabola.ipynb)
+* [DL Ex3_Clusterization_not_linearly_separated_spiral](https://colab.research.google.com/github/jbfiche/Deep-Learning-formation/blob/master/2022/Deep_learning_part_1/Ex3_Clusterization_not_linearly_separated_spiral.ipynb)
 * Materials
   * [Introduction_deep_learning_part1_2022.pdf](https://github.com/MontpellierRessourcesImagerie/mri-workshop-machine-learning/raw/master/day02/Deep_learning_part_1/Introduction_deep_learning_part1_2022.pdf)
 
