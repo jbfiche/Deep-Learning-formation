@@ -1,8 +1,10 @@
-# Workshop: <br> Bioimage analysis applications based on machine learning 
-
-![ml_comp.png](https://dev.mri.cnrs.fr/attachments/download/2599/ml_comp.png)
+# Workshop: <br> Bioimage analysis applications based on Deep Learning 
 
 <div class="begin-examples"></div>
+
+<img src="figures/Segmentation_example.png" style="zoom: 50%;" />
+
+
 
 * Day 1, part 1
   * Content
