@@ -12,7 +12,7 @@
 * [DL Ex2_Clusterization_not_linearly_separated_parabola](https://colab.research.google.com/github/jbfiche/Deep-Learning-formation/blob/master/2022/Deep_learning_part_1/Ex2_Clusterization_not_linearly_separated_parabola.ipynb)
 * [DL Ex3_Clusterization_not_linearly_separated_spiral](https://colab.research.google.com/github/jbfiche/Deep-Learning-formation/blob/master/2022/Deep_learning_part_1/Ex3_Clusterization_not_linearly_separated_spiral.ipynb)
 * Materials
-  * [Introduction_deep_learning_part1_2022.pdf](https://colab.research.google.com/github/jbfiche/Deep-Learning-formation/blob/master/2022/Deep_learning_part_1/Introduction_deep_learning_part1_2022.pdf)
+  * [Introduction_deep_learning_part1_2022.pdf](https://github.com/jbfiche/Deep-Learning-formation/raw/master/2022/Deep_learning_part_1/Introduction_deep_learning_part1_2022.pdf)
 
 
 
@@ -23,4 +23,5 @@
 * [DL Ex6_bacteria_segmentation_with_Unet](https://colab.research.google.com/github/jbfiche/Deep-Learning-formation/blob/master/2022/Deep_learning_part_2/Ex6_bacteria_segmentation_unet.ipynb)
 * [DL_Ex7_nuclei_segmentation_with_StarDist](https://colab.research.google.com/github/jbfiche/Deep-Learning-formation/blob/master/2022/Deep_learning_part_2/Ex7_nuclei_segmentation_stardist.ipynb)
 * Materials
-  * [Introduction_deep_learning_part2_2022.pdf](https://colab.research.google.com/github/jbfiche/Deep-Learning-formation/blob/master/2022/Deep_learning_part_2/Introduction_deep_learning_part2_2022.pdf)
+  * [Introduction_deep_learning_part2_2022.pdf](https://github.com/jbfiche/Deep-Learning-formation/raw/master/2022/Deep_learning_part_2/Introduction_deep_learning_part2_2022.pdf)
+
