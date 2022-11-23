@@ -1,4 +1,5 @@
+# Workshop: Bioimage analysis using deep learning
 
-# Workshop: Bioimage analysis applications based on machine learning
+This workshop is organized by Biocampus Montpellier. This repository contains only the document related to the Deep Learning part. 
 
-You can access the workshop [here](https://montpellierressourcesimagerie.github.io/mri-workshop-machine-learning/).
+You can access the exercises and slides [here](https://jbfiche.github.io/Deep_Learning_formartion/).
